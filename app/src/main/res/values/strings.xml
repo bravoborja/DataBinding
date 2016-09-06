@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="user_fullname">Hello %1$s %2$s</string>
+    <string name="click_me_button">Click me!</string>
+    <string name="click_me_info">%1$s has %2$d years old</string>
+</resources>
